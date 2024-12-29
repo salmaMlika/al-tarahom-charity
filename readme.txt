@@ -1,8 +1,15 @@
-Thank you for using our template!
+# Al-Tarâhum Charity Association
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+L'**Association Al-Tarâhum** fournit des équipements médicaux essentiels (chaises roulantes, lits médicaux, etc.) à des prix symboliques pour soutenir les personnes vulnérables.
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+## Fonctionnalités
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+- **Catalogue** : Découvrez les équipements disponibles à la location.
+- **Faire un don** : Aidez-nous à soutenir notre cause.
+- **Location d'équipements** : Remplissez un formulaire pour louer un équipement médical.
+
+## Comment Contribuer
+
+- **Faire un don** 
+- **Contactez-nous** 
+
